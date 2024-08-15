@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:40px;
+}
+#container{
+    margin: 0px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(214, 171, 106);
+    border-radius: 50px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#timer{
+    font-size: 100px;
+    text-align: center;
+}
+#set{
+    height: 50px;
+    text-align: center;
+}
+#start{
+    background-color: beige;
+    font-size: 16px;
+    color: rgb(30, 218, 74);
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+#stop{
+    background-color: beige;
+    font-size: 16px;
+    color: rgb(247, 21, 21);
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+
